@@ -1,7 +1,7 @@
-//
-// Created by davie on 4/28/2024.
-//
-
+// Employee_Training.cpp
+// Created by Daviel Diaz
+// Employee profile definitions
+//-------------------------------------------------
 #include "Employee_Training.h"
 #include <iostream>
 

@@ -1,7 +1,7 @@
-//
-// Created by davie on 4/28/2024.
-//
-
+// Employee_Training.h
+// Created by Daviel
+// Employee profile declarations
+//-------------------------------------------------
 #ifndef EMPLOYEE_MANAGEMENT_SYSTEM_2_EMPLOYEE_TRAINING_H
 #define EMPLOYEE_MANAGEMENT_SYSTEM_2_EMPLOYEE_TRAINING_H
 #include "Employee_Management.h"
