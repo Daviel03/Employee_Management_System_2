@@ -4,6 +4,7 @@
 //----------------------------------------------------------------
 
 #include <iostream>
+#include <algorithm>
 #include "Employee_Management.h"
 
 Employee_Management::Employee_Management() {
@@ -41,3 +42,4 @@ void Employee_Management::display_employee()const {
 void Employee_Management::restart_employees() {
     employees.clear();
 }
+

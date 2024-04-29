@@ -8,6 +8,7 @@ add_executable(Employee_Management_System_2 main.cpp
         Employee_Profile.h
         Employee_Management.cpp
         Employee_Management.h
-        Employee_Schedule.cpp
-        Employee_Schedule.h
+        Employee_Training.h
+        Employee_Training.cpp
+        Employee_Training.h
 )
